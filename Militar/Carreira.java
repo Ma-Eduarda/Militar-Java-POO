@@ -1,0 +1,3 @@
+interface Carreira {
+    boolean podeProgredir();
+}
